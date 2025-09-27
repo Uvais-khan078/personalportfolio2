@@ -47,7 +47,7 @@ const Layout = () => {
       <footer className="bg-gray-800 text-white py-12">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
-            <h2 className="text-2xl font-bold mb-4">Your Name</h2>
+            <h2 className="text-2xl font-bold mb-4">Uvais Khan</h2>
             <p className="text-gray-400 max-w-2xl mx-auto mb-8">Frontend Developer & UI/UX Designer creating digital experiences that matter.</p>
             <div className="flex justify-center space-x-6 mb-8">
               <a href="#" className="text-gray-400 hover:text-white transition">

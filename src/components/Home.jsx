@@ -16,8 +16,8 @@ const Home = () => {
               <img src="http://static.photos/people/640x360/1" alt="Profile" className="rounded-full w-64 h-64 object-cover mx-auto shadow-lg border-4 border-white" />
             </div>
             <div className="md:w-2/3 text-center md:text-left">
-              <h1 className="text-5xl md:text-6xl font-bold mb-4" data-aos="fade-up">Hi, I'm <span className="text-indigo-200">Your Name</span></h1>
-              <h2 className="text-2xl md:text-3xl font-semibold mb-8" data-aos="fade-up" data-aos-delay="100">Frontend Developer & UI/UX Designer</h2>
+              <h1 className="text-5xl md:text-6xl font-bold mb-4" data-aos="fade-up">Hi, I'm <span className="text-indigo-200">Uvais khan </span></h1>
+              <h2 className="text-2xl md:text-3xl font-semibold mb-8" data-aos="fade-up" data-aos-delay="100">Frontend Developer & cybersecurity student</h2>
               <div className="flex justify-center md:justify-start space-x-4" data-aos="fade-up" data-aos-delay="200">
                 <a href="#projects" className="px-6 py-3 bg-white text-indigo-600 rounded-full font-medium hover:bg-indigo-100 transition">View My Work</a>
                 <a href="#contact" className="px-6 py-3 border border-white text-white rounded-full font-medium hover:bg-white hover:text-indigo-600 transition">Contact Me</a>
