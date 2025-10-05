@@ -1,5 +1,6 @@
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 import feather from 'feather-icons';
+import ProjectModal from './ProjectModal';
 
 const Home = () => {
   useEffect(() => {
